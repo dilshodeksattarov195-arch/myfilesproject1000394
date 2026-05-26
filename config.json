@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderperify",
+        "uuid": 438128,
+        "checksum": "ram2id"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
